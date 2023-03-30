@@ -1,0 +1,23 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress_open": "npx cypress"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reeyavii/cypress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reeyavii/cypress/issues"
+  },
+  "homepage": "https://github.com/reeyavii/cypress#readme",
+  "dependencies": {
+    "cypress": "^12.9.0"
+  }
+}
